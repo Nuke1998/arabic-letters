@@ -1,3 +1,0 @@
--battery powered DC-DC converter (power supply)
--replay device (speech IC, or MCU)
--sensors (accelerometer)
